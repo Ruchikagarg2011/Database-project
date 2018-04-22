@@ -1,0 +1,17 @@
+DROP INDEX userIndex;
+DROP INDEX UserAndReview;
+DROP INDEX userandAvgStar;
+DROP PROCEDURE YElP_Business_Review;
+DROP PROCEDURE YElP_User_Review;
+DROP TABLE Review;
+DROP TABLE CheckIN;
+DROP TABLE Compliments;
+DROP TABLE EliteYears;
+DROP TABLE Friends;
+DROP TABLE YelpUser;
+DROP TABLE BusinessSubCategory;
+DROP TABLE BusinessCategory;
+DROP TABLE BusinessAttributes;
+DROP TABLE Neighborhoods;
+DROP TABLE BusinessHours;
+DROP TABLE Business;
